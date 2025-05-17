@@ -1,7 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_CBw5qWL)
-# Graded Challenge 3
+# Analisis Produk Seblak di Tokopedia dengan Web Scraping dan Pandas
 
-_Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Comprehensive Data Analytics Program khususnya pada konsep Web Scraping dan Pandas._
+Program ini dibuat untuk melakukan pengambilan data produk seblak di Tokopedia menggunakan teknik Web Scraping.
+Data yang dikumpulkan mencakup nama produk, harga, penjual, kota toko, jumlah terjual, dan rating produk.
+Data kemudian diolah menggunakan Pandas untuk dilakukan eksplorasi sederhana dan pembersihan (data preparation).
+Hasil ini bertujuan untuk memberikan gambaran awal tentang potensi penjualan produk seblak secara online.
 
 ---
 
