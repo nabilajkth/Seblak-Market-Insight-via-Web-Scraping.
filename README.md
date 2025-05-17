@@ -31,8 +31,8 @@ Proyek ini bertujuan untuk melakukan scraping data produk *Seblak* dari situs To
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/nabilajkth/Seblak-Market-Insight-via-Web-Scraping.git
+cd Seblak-Market-Insight-via-Web-Scraping
 ```
 
 ### 2. Buat Virtual Environment (opsional)
